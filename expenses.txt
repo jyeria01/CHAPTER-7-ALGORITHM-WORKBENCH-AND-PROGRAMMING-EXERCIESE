@@ -1,6 +1,6 @@
-['Rent', 'Gas', 'Food', 'Clothing', 'Car payment', 'Misc'], 925
-['Rent', 'Gas', 'Food', 'Clothing', 'Car payment', 'Misc'], 100
-['Rent', 'Gas', 'Food', 'Clothing', 'Car payment', 'Misc'], 350
-['Rent', 'Gas', 'Food', 'Clothing', 'Car payment', 'Misc'], 125
-['Rent', 'Gas', 'Food', 'Clothing', 'Car payment', 'Misc'], 275
-['Rent', 'Gas', 'Food', 'Clothing', 'Car payment', 'Misc'], 225
+Rent, 925
+Gas, 100
+Food, 350
+Clothing, 125
+Car payment, 275
+Misc, 225
